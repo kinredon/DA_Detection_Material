@@ -2,6 +2,9 @@
 
 This repository will give some materials about domain adaptation for object detection.
 
+* 2019xxxx CVPR 2019 [Adapting Object Detectors via Selective Cross-Domain Alignment](http://openaccess.thecvf.com/content_CVPR_2019/html/Zhu_Adapting_Object_Detectors_via_Selective_Cross-Domain_Alignment_CVPR_2019_paper.html)
+	* code: [SCDA](https://github.com/WERush/SCDA)
+
 * 20190425 CVPR 2019 [Exploring Object Relation in Mean Teacher for Cross-Domain Detection](https://arxiv.org/abs/1904.11245)
 
 * 20190404 [A Robust Learning Approach to Domain Adaptive Object Detection](https://arxiv.org/abs/1904.02361)
