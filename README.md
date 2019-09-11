@@ -2,8 +2,7 @@
 
 This repository will give some materials about domain adaptation for object detection.
 
-* 20190514 CVPR 2019 [Diversify and Match: A Domain Adaptive Representation Learning Paradigm for Object Detection]
-(https://arxiv.org/abs/1905.05396)
+* 20190514 CVPR 2019 [Diversify and Match: A Domain Adaptive Representation Learning Paradigm for Object Detection](https://arxiv.org/abs/1905.05396)
 
 * 2019xxxx CVPR 2019 [Adapting Object Detectors via Selective Cross-Domain Alignment](http://openaccess.thecvf.com/content_CVPR_2019/html/Zhu_Adapting_Object_Detectors_via_Selective_Cross-Domain_Alignment_CVPR_2019_paper.html)
 	* code: [SCDA](https://github.com/WERush/SCDA)
