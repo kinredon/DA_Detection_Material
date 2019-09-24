@@ -2,7 +2,7 @@
 
 This repository will give some materials about domain adaptation for object detection.
 
-* 20190918 arxiv [Wasserstein Distance Based Domain Adaptation for Object Detection]https://arxiv.org/abs/1909.08675)
+* 20190918 arxiv [Wasserstein Distance Based Domain Adaptation for Object Detection](https://arxiv.org/abs/1909.08675)
 
 * 20190514 CVPR 2019 [Diversify and Match: A Domain Adaptive Representation Learning Paradigm for Object Detection](https://arxiv.org/abs/1905.05396)
 
