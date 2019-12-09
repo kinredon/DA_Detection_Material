@@ -12,7 +12,7 @@ This repository will give some materials about domain adaptation for object dete
 
 * 20190918 arxiv [Wasserstein Distance Based Domain Adaptation for Object Detection](https://arxiv.org/abs/1909.08675)
 
-* 20190907 arxiv [Multi-adversarial Faster-RCNN for Unrestricted Object Detection](http://arxiv.org/abs/1907.10343v2)
+* 20190907 ICCV 2019 [Multi-adversarial Faster-RCNN for Unrestricted Object Detection](http://arxiv.org/abs/1907.10343v2)
 
 * 20190902 ICCV 2019(oral) [Self-Training and Adversarial Background Regularization for Unsupervised Domain Adaptive One-Stage Object Detection](https://arxiv.org/abs/1909.00597v1)
 
