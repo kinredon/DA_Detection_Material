@@ -39,6 +39,8 @@ This repository will give some materials about domain adaptation for object dete
 
 * 20181203 [SPLAT: Semantic Pixel-Level Adaptation Transforms for Detection](https://arxiv.org/abs/1812.00929)
 
+* 20181005 [Weakly Supervised Object Detection in Artworks](https://arxiv.org/abs/1810.02569v1)
+
 * 20181004 [Unsupervised Adversarial Visual Level Domain Adaptation for Learning Video Object Detectors from Images](https://arxiv.org/abs/1810.02074)
 
 * 20180930 [Pixel and Feature Level Based Domain Adaption for Object Detection in Autonomous Driving](https://arxiv.org/abs/1810.00345)
