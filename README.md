@@ -2,6 +2,14 @@
 
 This repository will give some materials about domain adaptation for object detection.
 
+* 20191129 arxiv [Prior-based Domain Adaptive Object Detection for Adverse Weather Conditions](https://arxiv.org/abs/1912.00070v1)
+
+* 20191124 arxiv [Unsupervised Domain Adaptation for Object Detection via Cross-Domain Semi-Supervised Learning](https://arxiv.org/abs/1911.07158v2)
+
+* 20191122 BMVC 2019 [Domain Adaptation for Object Detection via Style Consistency](https://arxiv.org/abs/1911.10033v1)
+
+* 20191024 WACV 2020 [Progressive Domain Adaptation for Object Detection](https://arxiv.org/abs/1910.11319v1)
+
 * 20190918 arxiv [Wasserstein Distance Based Domain Adaptation for Object Detection](https://arxiv.org/abs/1909.08675)
 
 * 20190514 CVPR 2019 [Diversify and Match: A Domain Adaptive Representation Learning Paradigm for Object Detection](https://arxiv.org/abs/1905.05396)
