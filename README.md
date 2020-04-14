@@ -2,34 +2,48 @@
 
 This repository will give some materials about domain adaptation for object detection.
 
+* 20200217 arxiv [Deep Domain Adaptive Object Detection: a Survey](https://arxiv.org/abs/2002.06797)
+* 20200309 AAAI 2020 [iFAN: Image-Instance Full Alignment Networks for Adaptive Object Detection](https://arxiv.org/abs/2003.04132)
+* 20200313 CVPR 2020 [Harmonizing Transferability and Discriminability for Adapting Object Detectors](https://arxiv.org/abs/2003.06297)
+* 20200316 arxiv [Adapting Object Detectors with Conditional Domain Normalization](https://arxiv.org/abs/2003.07071)
+* 20200409 arxiv [Deeply Aligned Adaptation for Cross-domain Object Detection](https://arxiv.org/abs/2004.02093)
+* 20200329 arxiv [Adaptive Object Detection with Dual Multi-Label Prediction](https://arxiv.org/abs/2003.12979)
+* 20200329 arxiv [Spatial Attention Pyramid Network for Unsupervised Domain Adaptation](https://arxiv.org/abs/2003.12979)
+* 20200320 CVPR 2020 [Exploring Categorical Regularization for Domain Adaptive Object Detection](https://arxiv.org/abs/2003.09152)
+  * Code: [CR-DA-DET](https://github.com/Megvii-Nanjing/CR-DA-DET)
+* 20200302 arxiv [Unbiased Mean Teacher for Cross Domain Object Detection](https://arxiv.org/abs/2003.00707)
+* 20200203 arxiv [Unsupervised Domain Adaptive Object Detection using Forward-Backward Cyclic Adaptation](https://arxiv.org/abs/2002.00575)
+
+* 20200322 arxiv [Self-Guided Adaptation: Progressive Representation Alignment for Domain
+  Adaptive Object Detection](https://arxiv.org/abs/2003.08777)
+* 20200320 arxiv [Cross-domain Object Detection through Coarse-to-Fine Feature Adaptation](https://arxiv.org/abs/2003.10275)
+* 20200328 CVPR 2020 [Cross-domain Detection via Graph-induced Prototype Alignment](https://arxiv.org/pdf/2003.12849.pdf)
+  * Code: [GPA-detection](https://github. com/ChrisAllenMing/GPA-detection)
+* 20191215 arxiv [Curriculum Self-Paced Learning for Cross-Domain Object Detection](https://arxiv.org/abs/1911.06849)
+* 20191129 arxiv [Prior-based Domain Adaptive Object Detection for Adverse Weather Conditions](https://arxiv.org/abs/1912.00070v1)
+* 20191124 arxiv [Unsupervised Domain Adaptation for Object Detection via Cross-Domain Semi-Supervised Learning](https://arxiv.org/abs/1911.07158v2)
+* 20191122 BMVC 2019 [Domain Adaptation for Object Detection via Style Consistency](https://arxiv.org/abs/1911.10033v1)
+* 20190918 arxiv [Wasserstein Distance Based Domain Adaptation for Object Detection](https://arxiv.org/abs/1909.08675)
+* 20190907 ICCV 2019 [Multi-adversarial Faster-RCNN for Unrestricted Object Detection](http://arxiv.org/abs/1907.10343v2)
+* 20190514 CVPR 2019 [Diversify and Match: A Domain Adaptive Representation Learning Paradigm for Object Detection](https://arxiv.org/abs/1905.05396)
+* 20191024 WACV 2020 [Progressive Domain Adaptation for Object Detection](https://arxiv.org/abs/1910.11319v1)
+* 20190902 ICCV 2019(oral) [Self-Training and Adversarial Background Regularization for Unsupervised Domain Adaptive One-Stage Object Detection](https://arxiv.org/abs/1909.00597v1)
 * 2019xxxx CVPR 2019 [Adapting Object Detectors via Selective Cross-Domain Alignment](http://openaccess.thecvf.com/content_CVPR_2019/html/Zhu_Adapting_Object_Detectors_via_Selective_Cross-Domain_Alignment_CVPR_2019_paper.html)
 	* code: [SCDA](https://github.com/WERush/SCDA)
-
 * 20190425 CVPR 2019 [Exploring Object Relation in Mean Teacher for Cross-Domain Detection](https://arxiv.org/abs/1904.11245)
-
 * 20190404 [A Robust Learning Approach to Domain Adaptive Object Detection](https://arxiv.org/abs/1904.02361)
-
 * 20190310 CVPR 2019 [Sliced Wasserstein Discrepancy for Unsupervised Domain Adaptation](https://arxiv.org/abs/1903.04064)
-
 * 20190322 CVPR 2019 [Few-shot Adaptive Faster R-CNN](https://arxiv.org/abs/1903.09372)
-
 * 20190409 CVPR 2019 [Towards Universal Object Detection by Domain Attention](https://arxiv.org/abs/1904.04402)
-
 * 20190415 CVPR 2019 [Automatic adaptation of object detectors to new domains using self-training](https://arxiv.org/abs/1904.07305)
     * code: [detectron-self-train](https://github.com/AruniRC/detectron-self-train)
-
 * 20190405 CVPR 2019 [Strong-Weak Distribution Alignment for Adaptive Object Detection](https://arxiv.org/abs/1812.04798)
     * code: [DA_Detection](https://github.com/VisionLearningGroup/DA_Detection)
-
 * 20181203 [SPLAT: Semantic Pixel-Level Adaptation Transforms for Detection](https://arxiv.org/abs/1812.00929)
-
 * 20181004 [Unsupervised Adversarial Visual Level Domain Adaptation for Learning Video Object Detectors from Images](https://arxiv.org/abs/1810.02074)
-
 * 20180930 [Pixel and Feature Level Based Domain Adaption for Object Detection in Autonomous Driving](https://arxiv.org/abs/1810.00345)
-
 * 20180530 CVPR 2018 [Cross-Domain Weakly-Supervised Object Detection through Progressive Domain Adaptation](https://arxiv.org/abs/1803.11365)
     * code: [cross-domain-detection](https://github.com/naoto0804/cross-domain-detection)
-
 * 20180508 CVPR 2018 [Domain Adaptive Faster R-CNN for Object Detection in the Wild](https://arxiv.org/abs/1803.03243)
     * image level alignment, instance level alignment and consistency regularization
     * code: [da-faster-rcnn](https://github.com/yuhuayc/da-faster-rcnn)
