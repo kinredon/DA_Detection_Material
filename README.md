@@ -2,6 +2,9 @@
 
 This repository will give some materials about domain adaptation for object detection.
 
+* TIP Sequential Instance Refinement for Cross-Domain Object Detection in Images
+* 20210704 arxiv Unsupervised Domain Adaptation of Object Detectors: A Survey
+* IJCV2021 Scale-Aware Domain Adaptive Faster R-CNN
 * 20210803 arxiv Multilevel Knowledge Transfer for Cross-Domain Object Detection
 * CVPR 2021 I3Net: Implicit Instance-Invariant Network for Adapting One-Stage Object Detectors
 * CVPR 2021 RPN Prototype Alignment for Domain Adaptive Object Detector
