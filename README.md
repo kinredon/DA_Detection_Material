@@ -2,20 +2,36 @@
 
 This repository will give some materials about domain adaptation for object detection.
 
+* T-ITS [C2FDA: Coarse-to-Fine Domain Adaptation for Traffic Object Detection](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9616450)
+* Neurips 2021 SSAL: Synergizing between Self-Training and Adversarial Learning for Domain Adaptive Object Detection
+* ICCV 2021 Dual Bipartite Graph Learning: A General Approach for Domain Adaptive Object Detection
+* ICCV 2021 Vector-Decomposed Disentanglement for Domain-Invariant Object Detection
+* ICCV 2021 PIT: Position-Invariant Transform for Cross-FoV Domain Adaptation
+* ICCV 2021 Multi-Source Domain Adaptation for Object Detection
+* ICCV 2021 Seeking Similarities Over Differences: Similarity-Based Domain Alignment for Adaptive Object Detection
+* ICCV 2021 Knowledge Mining and Transferring for Domain Adaptive Object Detection
+* ICCV 2021 Domain-Invariant Disentangled Network for Generalizable Object Detection
+* TMM 2021 Uncertainty-Aware Unsupervised Domain Adaptation in Object Detection
+* TMM 2021 Joint Distribution Alignment via Adversarial Learning for Domain Adaptive Object Detection 
 * TIP Sequential Instance Refinement for Cross-Domain Object Detection in Images
+* AAAI 2021 Category Dictionary Guided Unsupervised Domain Adaptation for Object Detection
 * 20210704 arxiv Unsupervised Domain Adaptation of Object Detectors: A Survey
 * IJCV2021 Scale-Aware Domain Adaptive Faster R-CNN
 * 20210803 arxiv Multilevel Knowledge Transfer for Cross-Domain Object Detection
+* CVPR 2021 SRDAN: Scale-Aware and Range-Aware Domain Adaptation Network for Cross-Dataset 3D Object Detection
+* CVPR 2021 ST3D: Self-Training for Unsupervised Domain Adaptation on 3D Object Detection
+* CVPR 2021 MeGA-CDA: Memory Guided Attention for Category-Aware Unsupervised Domain Adaptive Object Detection
 * CVPR 2021 I3Net: Implicit Instance-Invariant Network for Adapting One-Stage Object Detectors
 * CVPR 2021 RPN Prototype Alignment for Domain Adaptive Object Detector
 * CVPR 2021 Domain-Specific Suppression for Adaptive Object Detection
 * CVPR 2021 Unbiased Mean Teacher for Cross-domain Object Detection
 * ECCV 2020 One-Shot Unsupervised Cross-Domain Detection
 * ECCV 2020 Prior-based Domain Adaptive Object Detection for Hazy and Rainy Conditions
-* ECCV 2020 Domain Adaptive Object Detection via Asymmetric Tri-way Faster-RCNN
 * ECCV 2020 Collaborative Training between Region Proposal Localization and Classification for Domain Adaptive Object Detection
 * ECCV 2020 Every Pixel Matters: Center-aware Feature Alignment for Domain Adaptive Object Detector
 * ECCV 2020 Domain Adaptive Object Detection via Asymmetric Tri-way Faster-RCNN
+* ACM MM 2020 Domain-Adaptive Object Detection via Uncertainty-Aware Distribution Alignment
+* 20201216 arxiv Domain Adaptive Object Detection via Feature Separation and Alignment
 * 20200217 arxiv [Deep Domain Adaptive Object Detection: a Survey](https://arxiv.org/abs/2002.06797)
 * 20200309 AAAI 2020 [iFAN: Image-Instance Full Alignment Networks for Adaptive Object Detection](https://arxiv.org/abs/2003.04132)
 * 20200313 CVPR 2020 [Harmonizing Transferability and Discriminability for Adapting Object Detectors](https://arxiv.org/abs/2003.06297)
@@ -26,7 +42,6 @@ This repository will give some materials about domain adaptation for object dete
 * 20200320 CVPR 2020 [Exploring Categorical Regularization for Domain Adaptive Object Detection](https://arxiv.org/abs/2003.09152)
   * Code: [CR-DA-DET](https://github.com/Megvii-Nanjing/CR-DA-DET)
 * 20200203 arxiv [Unsupervised Domain Adaptive Object Detection using Forward-Backward Cyclic Adaptation](https://arxiv.org/abs/2002.00575)
-
 * 20200322 arxiv [Self-Guided Adaptation: Progressive Representation Alignment for Domain
   Adaptive Object Detection](https://arxiv.org/abs/2003.08777)
 * 20200320 CVPR 2020 [Cross-domain Object Detection through Coarse-to-Fine Feature Adaptation](https://arxiv.org/abs/2003.10275)
