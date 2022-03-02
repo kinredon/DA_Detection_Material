@@ -2,6 +2,9 @@
 
 This repository will give some materials about domain adaptation for object detection.
 
+* Arxiv 2022 Domain-Invariant Proposals based on a Balanced Domain Classifier for Object Detection
+* TMM 2022 Decompose to Adapt: Cross-domain Object Detection via Feature Disentanglement
+  - [code](https://github.com/dliu5812/DDF)
 * T-ITS [C2FDA: Coarse-to-Fine Domain Adaptation for Traffic Object Detection](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9616450)
 * Neurips 2021 SSAL: Synergizing between Self-Training and Adversarial Learning for Domain Adaptive Object Detection
 * ICCV 2021 Dual Bipartite Graph Learning: A General Approach for Domain Adaptive Object Detection
