@@ -1,7 +1,14 @@
 ## DA_Detection_Material
 
 This repository will give some materials about domain adaptation for object detection.
+</br>
+If you find some overlooked papers or resourses, please open issues or pull requests (recommended).
 
+* CVPR 2022 SIGMA: Semantic-complete Graph Matching for Domain Adaptative Object Detection
+* AAAI 2022 SCAN: Cross Domain Object Detection with Semantic Conditioned Adaptation
+* AAAI 2022 Unsupervised Domain Adaptive Salient Object Detection Through Uncertainty-Aware Pseudo-Label Learning
+* 2022 Decouple and Reconstruct: Mining Discriminative Features for Cross-domain Object Detection
+* ICLR 2022 Decoupled Adaptation for Cross-Domain Object Detection
 * Arxiv 2022 Domain-Invariant Proposals based on a Balanced Domain Classifier for Object Detection
 * TMM 2022 Decompose to Adapt: Cross-domain Object Detection via Feature Disentanglement
   - [code](https://github.com/dliu5812/DDF)
@@ -16,6 +23,7 @@ This repository will give some materials about domain adaptation for object dete
 * ICCV 2021 Domain-Invariant Disentangled Network for Generalizable Object Detection
 * TMM 2021 Uncertainty-Aware Unsupervised Domain Adaptation in Object Detection
 * TMM 2021 Joint Distribution Alignment via Adversarial Learning for Domain Adaptive Object Detection 
+* TIP 2021 HTD: Heterogeneous Task Decoupling for Two-Stage Object Detection
 * TIP Sequential Instance Refinement for Cross-Domain Object Detection in Images
 * AAAI 2021 Category Dictionary Guided Unsupervised Domain Adaptation for Object Detection
 * 20210704 arxiv Unsupervised Domain Adaptation of Object Detectors: A Survey
