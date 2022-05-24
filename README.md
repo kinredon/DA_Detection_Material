@@ -4,6 +4,9 @@ This repository will give some materials about domain adaptation for object dete
 </br>
 If you find some overlooked papers or resourses, please open issues or pull requests (recommended).
 
+* CVPR 2022 Cross Domain Object Detection by Target-Perceived Dual Branch Distillation
+* CVPR 2022 Cross-Domain Adaptive Teacher for Object Detection
+* CVPR 2022 Task-specific Inconsistency Alignment for Domain Adaptive Object Detection
 * CVPR 2022 SIGMA: Semantic-complete Graph Matching for Domain Adaptative Object Detection
 * AAAI 2022 SCAN: Cross Domain Object Detection with Semantic Conditioned Adaptation
 * AAAI 2022 Unsupervised Domain Adaptive Salient Object Detection Through Uncertainty-Aware Pseudo-Label Learning
