@@ -4,6 +4,7 @@ This repository will give some materials about domain adaptation for object dete
 </br>
 If you find some overlooked papers or resourses, please open issues or pull requests (recommended).
 
+* ECCV 2022 Unsupervised Domain Adaptation for One-stage Object Detector using Offsets to Bounding Box
 * CVPR 2022 Towards Robust Adaptive Object Detection under Noisy Annotations
   * Code: [NLTE](https://github.com/CityU-AIM-Group/NLTE)
 * CVPR 2022 Single-Domain Generalized Object Detection in Urban Scene via Cyclic-Disentangled Self-Distillation
