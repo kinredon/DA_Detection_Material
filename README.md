@@ -4,6 +4,7 @@ This repository will give some materials about domain adaptation for object dete
 </br>
 If you find some overlooked papers or resourses, please open issues or pull requests (recommended).
 
+* ECCV 2022 Unsupervised Domain Adaptation for One-stage Object Detector using Offsets to Bounding Box
 * CVPR 2022 Cross Domain Object Detection by Target-Perceived Dual Branch Distillation
 * CVPR 2022 Cross-Domain Adaptive Teacher for Object Detection
 * CVPR 2022 Task-specific Inconsistency Alignment for Domain Adaptive Object Detection
