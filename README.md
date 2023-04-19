@@ -4,6 +4,17 @@ This repository will give some materials about domain adaptation for object dete
 </br>
 If you find some overlooked papers or resourses, please open issues or pull requests (recommended).
 
+* CVPR 2023 Multi-view Adversarial Discriminator: Mine the Non-causal Factors for Object Detection in Unseen Domains
+* T-PAMI 2023 SIGMA++: Improved Semantic-complete Graph Matching for Domain Adaptive Object Detection
+* TMM 2022 SCAN++: Enhanced Semantic Conditioned Adaptation for Domain Adaptive Object Detection
+* ECCV 2022 Unsupervised Domain Adaptation for One-Stage Object Detector Using Offsets to Bounding Box
+* ECCV 2022 AcroFOD: An Adaptive Method for Cross-Domain Few-Shot Object Detection
+* ECCV 2022 MTTrans: Cross-Domain Object Detection with Mean Teacher Transformer
+* CVPR 2022 Single-Domain Generalized Object Detection in Urban Scene via Cyclic-Disentangled Self-Distillation
+* CVPR 2022 Multi-Granularity Alignment Domain Adaptation for Object Detection
+* CVPR 2022 H2FA R-CNN: Holistic and Hierarchical Feature Alignment for Cross-Domain Weakly Supervised Object Detection
+* CVPR 2022 Exploring Endogenous Shift for Cross-Domain Detection: A Large-Scale Benchmark and Perturbation Suppression Network
+* CVPR 2022 Source-Free Object Detection by Learning To Overlook Domain Style
 * CVPR 2022 Cross Domain Object Detection by Target-Perceived Dual Branch Distillation
 * CVPR 2022 Cross-Domain Adaptive Teacher for Object Detection
 * CVPR 2022 Task-specific Inconsistency Alignment for Domain Adaptive Object Detection
