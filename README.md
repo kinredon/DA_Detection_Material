@@ -59,6 +59,7 @@ If you find some overlooked papers or resourses, please open issues or pull requ
 * TMM 2021 Uncertainty-Aware Unsupervised Domain Adaptation in Object Detection
 * TMM 2021 Joint Distribution Alignment via Adversarial Learning for Domain Adaptive Object Detection 
 * TIP 2021 HTD: Heterogeneous Task Decoupling for Two-Stage Object Detection
+* Image and Vision Computing 2021, An unsupervised domain adaptation scheme for single-stage artwork recognition in cultural sites, [code](https://github.com/fpv-iplab/DA-RetinaNet).
 * TIP Sequential Instance Refinement for Cross-Domain Object Detection in Images
 * AAAI 2021 Category Dictionary Guided Unsupervised Domain Adaptation for Object Detection
 * 20210704 arxiv Unsupervised Domain Adaptation of Object Detectors: A Survey
