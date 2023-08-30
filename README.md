@@ -4,6 +4,7 @@ This repository will give some materials about domain adaptation for object dete
 </br>
 If you find some overlooked papers or resourses, please open issues or pull requests (recommended).
 
+* Arxiv Aug 2023, Detect, Augment, Compose, and Adapt: Four Steps for Unsupervised Domain Adaptation in Object Detection
 * ICCV 2023 Unsupervised Domain Adaptive Detection with Network Stability Analysis
 * Arxiv 9 Jun 2023, Learning Domain-Aware Detection Head with Prompt Tuning
 * CVPR 2023 Object Detection With Self-Supervised Scene Adaptation
