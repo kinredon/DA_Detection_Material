@@ -4,6 +4,7 @@ This repository will give some materials about domain adaptation for object dete
 </br>
 If you find some overlooked papers or resourses, please open issues or pull requests (recommended).
 
+* Arxiv 24 Oct 2023 Mean Teacher DETR with Masked Feature Alignment: A Robust Domain Adaptive Detection Transformer Framework
 * ICCV 2023 Novel Scenes & Classes: Towards Adaptive Open-set Object Detection
 * ICCV 2023 CSDA: Learning Category-Scale Joint Feature for Domain Adaptive Object Detection
 * ICCV 2023 Masked Retraining Teacher-Student Framework for Domain Adaptive Object Detection
