@@ -4,6 +4,15 @@ This repository will give some materials about domain adaptation for object dete
 </br>
 If you find some overlooked papers or resourses, please open issues or pull requests (recommended).
 
+* ECCV 2024 Dynamic Retraining-Updating Mean Teacher for Source-Free Object Detection
+* ECCV 2024 Enhancing Source-Free Domain Adaptive Object Detection with Low-confidence Pseudo Label Distillation
+* CVPR 2024 D3T: Distinctive Dual-Domain Teacher Zigzagging Across RGB-Thermal Gap for Domain-Adaptive Object Detection
+* CVPR 2024 CAT: Exploiting Inter-Class Dynamics for Domain Adaptive Object Detection
+* CVPR 2024 Unbiased Faster R-CNN for Single-source Domain Generalized Object Detection
+* CVPR 2024 Improving Single Domain-Generalized Object Detection: A Focus on Diversification and Alignment
+* CVPR 2024 Boosting Object Detection with Zero-Shot Day-Night Domain Adaptation
+* CVPR 2024 What, How, and When Should Object Detectors Update in Continually Changing Test Domains?
+* TCSVT 2024 Balanced Teacher for Source-free Object Detection
 * Arxiv 24 Oct 2023 Mean Teacher DETR with Masked Feature Alignment: A Robust Domain Adaptive Detection Transformer Framework
 * ICCV 2023 Novel Scenes & Classes: Towards Adaptive Open-set Object Detection
 * ICCV 2023 CSDA: Learning Category-Scale Joint Feature for Domain Adaptive Object Detection
