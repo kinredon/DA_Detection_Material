@@ -4,6 +4,7 @@ This repository will give some materials about domain adaptation for object dete
 </br>
 If you find some overlooked papers or resourses, please open issues or pull requests (recommended).
 
+* Arxiv Mon, 7 Oct 2024 Rethinking Weak-to-Strong Augmentation in Source-Free Domain Adaptive Object Detection
 * ACM MM 2024 Diffusion Domain Teacher: Diffusion Guided Domain Adaptive Object Detector
 * ICML 2024 DSD-DA: Distillation-based Source Debiasing for Domain Adaptive Object Detection
 * ECCV 2024 Revisiting Domain-Adaptive Object Detection in Adverse Weather by the Generation and Composition of High-Quality Pseudo-Labels
