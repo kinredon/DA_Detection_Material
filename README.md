@@ -4,6 +4,13 @@ This repository will give some materials about domain adaptation for object dete
 </br>
 If you find some overlooked papers or resourses, please open issues or pull requests (recommended).
 
+* ACM MM 2024 Diffusion Domain Teacher: Diffusion Guided Domain Adaptive Object Detector
+* ICML 2024 DSD-DA: Distillation-based Source Debiasing for Domain Adaptive Object Detection
+* ECCV 2024 Revisiting Domain-Adaptive Object Detection in Adverse Weather by the Generation and Composition of High-Quality Pseudo-Labels
+* ECCV 2024 Cross-Domain Few-Shot Object Detection via Enhanced Open-Set Object Detector
+* ECCV 2024 CMD: A Cross Mechanism Domain Adaptation Dataset for 3D Object Detection
+* ECCV 2024 Simplifying Source-Free Domain Adaptation for Object Detection: Effective Self-Training Strategies and Performance Insights
+* ECCV 2024 Source-Free Domain Adaptation for YOLO Object Detection
 * ECCV 2024 Dynamic Retraining-Updating Mean Teacher for Source-Free Object Detection
 * ECCV 2024 Enhancing Source-Free Domain Adaptive Object Detection with Low-confidence Pseudo Label Distillation
 * CVPR 2024 D3T: Distinctive Dual-Domain Teacher Zigzagging Across RGB-Thermal Gap for Domain-Adaptive Object Detection
